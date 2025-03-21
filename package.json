@@ -1,0 +1,11 @@
+{
+    "name": "vehicle-sales-system",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+      "start:client": "cd client && npm start",
+      "start:server": "cd server && npm start",
+      "dev": "npm run start:server & npm run start:client",
+      "install:all": "cd client && npm install && cd ../server && npm install"
+    }
+  }
