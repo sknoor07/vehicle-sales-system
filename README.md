@@ -1,5 +1,5 @@
-Step 1 : Run "npm install" int he client and server directory
-Step 2 : Go to he client directory and run "npm start"
+Step 1 : Run "npm install" in the client and server directory
+Step 2 : Go to the client directory and run "npm start"
 Step 3 : Go to the server directory and run "npm sart"
 
 The project should start working on port 3000;
